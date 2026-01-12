@@ -26,17 +26,6 @@ Through this project, I learned:
 
 This project also helped me understand how small design decisions
 can make code easier to extend and maintain.
-
-## Why I Used `__name__ == "__main__"`
-
-While working on this project, I learned that Python files can be used in two
-different ways: they can be run directly, or they can be imported into other
-files as modules.
-
-For this reason, I used the following code at the end of the program:
-
-if __name__ == "__main__":
-    main()
 ---
 ## Features
 - Create rectangles or squares
@@ -44,3 +33,14 @@ if __name__ == "__main__":
 - Calculate area and perimeter
 - Resize shapes after creation
 - Input validation for safer execution
+---
+## Why I Used `__name__ == "__main__"`
+
+While working on this project, I learned that Python files can be used in two
+different ways: they can be run directly, or they can be imported into other
+files as modules.
+
+For this reason, I used the following code at the end of the program:
+```Python
+if __name__ == "__main__":
+    main()
