@@ -1,4 +1,4 @@
-# ASCII Rectangle & Square Generator
+# ASCII Rectangle & Square Generator 
 
 ## About the Project
 This project is a beginner-level Python application that allows users to create,
