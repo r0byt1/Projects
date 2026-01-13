@@ -2,7 +2,8 @@
  
 ## Welcome to my Python repository!
 
-This repository contains projects I’ve built while learning Python. It shows my progress as a student, starting with basic programming concepts and gradually moving into Object-Oriented Programming through hands-on practice.
+This repository contains projects I’ve built while learning Python. It shows my progress as a student, starting with basic programming concepts and gradually tackling more complex challenges through hands-on practice.
+. As a learner, I don’t expect to know everything needed to bring a project to life from the start. Instead, I focus on making steady progress by building smaller projects, doing research, and using available resources such as the internet and AI tools. Through this approach, I aim to keep improving and show my willingness to learn and grow as a programmer.
 
 ---
 
