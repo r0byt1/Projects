@@ -3,7 +3,7 @@ from rectangle import Rectangle
 
     # main console
 def main():
-    fill_choice = input("Do you want your shape to be filled (F) or hollow (N)?: ").upper()
+    fill_choice = input("Do you want your shape to be filled (F) or hollow (H)?: ").upper()
     shape_choice = input("Do you want a square or a rectangle? (s/r): ").upper()
 
     if shape_choice == "S":
